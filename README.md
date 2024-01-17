@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![不背单词](https://stat.leftover.cn/bbdc?userId=272459328&nickname=苏氨酸)](https://github.com/left0ver/github-bbdc-stat)
+[![test](https://stat.leftover.cn/bbdc?userId=272459328&nickname=苏氨酸)](https://github.com/left0ver/github-bbdc-stat)
 
 
 <!--

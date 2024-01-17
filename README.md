@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![不背单词](https://stat.leftover.cn/bbdc?userId=272459328&nickname=苏氨酸)](https://github.com/left0ver/github-bbdc-stat)
+
+
 <!--
 **Threonine/Threonine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -22,7 +22,7 @@ Then 2026 happened. LLMs took over CTF, and I retired from the AI slop era. 🤖
 **Security Research Intern · [Moonshot AI](https://github.com/moonshotai)**  
 Mar 2026–Present · Cybersecurity capabilities of open-source models
 
-🌙 Co-author of **[Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653)**
+🌙 Contributor of **[Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653)**
 
 ## 🔍 Research Interests
 

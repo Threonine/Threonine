@@ -24,10 +24,6 @@ Mar 2026–Present · Cybersecurity capabilities of open-source models
 
 🌙 Contributor of **[Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653)**
 
-## 🔍 Research Interests
-
-Cryptography · Web security · AI security · Open-source security
-
 ## 📄 Publications
 
 **[Two-Bit Lifting for Ternary SIS: Polynomial-Time Collision Attacks on LtHash](https://eprint.iacr.org/2026/2083)**  
